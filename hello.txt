@@ -1,0 +1,61 @@
+Hello Git!
+Hello GitHub!
+Great!!!
+
+SOLID - collection of principles
+RAII - !!!
+Patterns
+TDD
+Merphy - Essential grammar in use
+Sequence point
+what a difference between std::string and STL containers
+Impossible to create an array of references (&)
+
+
+second day 2018.09.26
+GitHub--GitLab
+template commit message
+git status
+git add ...filename
+git commit
+{{{{{
+git pull --rebase
+before to make "push..."
+}}}}}
+UML
+www.planttext
+method chop()???
+quizful.net
+cornercase
+push_back-> size..../// reserve -> capacity
+before to use element of vector check his position
+connect googletest to Qt
+what is - vector bool
+
+///////////////////
+17:48:22: Could not start process "make" qmake_all
+Error while building/deploying project Calculator (kit: Desktop Qt 5.10.0 GCC 64bit)
+When executing step "qmake"
+
+
+My project can't run on Ubuntu
+my kit: Desktop Qt 5.10.0 GCC 64bit
+I am a newbie to Linux OS so how can I do
+
+In terminal:
+
+sudo apt-get install build-essential
+
+
+If you get Cannot find -lGL error, try this:
+sudo apt-get install libgl1-mesa-dev
+//////////////////////////////////
+
+
+
+
+
+
+
+
+

@@ -1,6 +1,9 @@
 #ifndef LAMP_H
 #define LAMP_H
 
+/*
+This comment just for make changes for Git
+*/
 
 class Lamp
 	{

@@ -7,6 +7,11 @@ googletests... I think it because I had implemented
 the class without functor...???
 */
 //---------------------------------------------
+
+/*
+This comment just for make changes for Git
+*/
+
 using namespace std;
 
 int main()

@@ -4,6 +4,10 @@
 
 #include "lamp.h"
 
+/*
+This comment just for make changes for Git
+*/
+
 using namespace std;
 
 Lamp::Lamp(unsigned long long int i_xn, unsigned long long int i_xm, int i_trw, int i_bgn, int i_end): m_xn(i_xn=1), m_xm(i_xm=1), m_trw(i_trw=1), m_bgn(i_bgn=1), m_end(i_end=1)
